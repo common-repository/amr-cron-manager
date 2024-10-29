@@ -1,0 +1,161 @@
+# Copyright (C) 2016 amr cron manager
+# This file is distributed under the same license as the amr cron manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: amr cron manager 2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/amr-cron-manager\n"
+"POT-Creation-Date: 2016-06-06 03:28:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: amr-cron-manager.php:95
+msgid "Cron Manager"
+msgstr ""
+
+#: amr-cron-manager.php:141
+msgid "Still some left - maybe these have arguments?"
+msgstr ""
+
+#: amr-cron-manager.php:143
+msgid "Try using Really Delete"
+msgstr ""
+
+#: amr-cron-manager.php:146
+msgid "Unscheduled %s for %s"
+msgstr ""
+
+#: amr-cron-manager.php:184
+msgid "Wordpress failed to reschedule %s for %s:"
+msgstr ""
+
+#: amr-cron-manager.php:187
+msgid "Rescheduled %s for %s:"
+msgstr ""
+
+#: amr-cron-manager.php:197
+msgid "Dashboard"
+msgstr ""
+
+#: amr-cron-manager.php:199
+msgid "Help"
+msgstr ""
+
+#: amr-cron-manager.php:263
+msgid "all instances deleted we hope! "
+msgstr ""
+
+#: amr-cron-manager.php:264
+msgid "Note some jobs are automatically recreated by wp or their plugin."
+msgstr ""
+
+#: amr-cron-manager.php:276
+msgid "Overview of cron tasks"
+msgstr ""
+
+#: amr-cron-manager.php:304
+msgid "Trigger the cron, else it has to wait for someone to request a page."
+msgstr ""
+
+#: amr-cron-manager.php:304
+msgid "Any jobs that are due or overdue will run."
+msgstr ""
+
+#: amr-cron-manager.php:304
+msgid "Any debug(?) output will show."
+msgstr ""
+
+#: amr-cron-manager.php:305
+msgid "Trigger the cron now!"
+msgstr ""
+
+#: amr-cron-manager.php:306
+msgid "Delete all jobs"
+msgstr ""
+
+#: amr-cron-manager.php:307
+msgid "Refresh to check status"
+msgstr ""
+
+#: amr-cron-manager.php:307
+msgid "Refresh"
+msgstr ""
+
+#: amr-cron-manager.php:331
+msgid "Nothing scheduled"
+msgstr ""
+
+#: amr-cron-manager.php:336
+msgid "Timeslots:"
+msgstr ""
+
+#: amr-cron-manager.php:338
+msgid "Date&nbsp;and&nbsp;Time"
+msgstr ""
+
+#: amr-cron-manager.php:354
+msgid "ASAP"
+msgstr ""
+
+#: amr-cron-manager.php:357
+msgid "In %s time"
+msgstr ""
+
+#: amr-cron-manager.php:361
+msgid "%s task"
+msgid_plural "%s tasks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: amr-cron-manager.php:370
+msgid "exists"
+msgstr ""
+
+#: amr-cron-manager.php:392
+msgid "missing"
+msgstr ""
+
+#: amr-cron-manager.php:404
+msgid "Really Delete"
+msgstr ""
+
+#: amr-cron-manager.php:439
+msgid "Reschedule for the time above."
+msgstr ""
+
+#: amr-cron-manager.php:441
+msgid "Delete"
+msgstr ""
+
+#: amr-cron-manager.php:487
+msgid "A cron guide"
+msgstr ""
+
+#: amr-cron-manager.php:489
+msgid "Another cron guide"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "amr cron manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpusersplugin.com/downloads/amr-cron-manager/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Overview of cron with action check and arguments, plus ability to delete "
+"comprehensively, and reschedule"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "anmari"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webdesign.anmari.com"
+msgstr ""
